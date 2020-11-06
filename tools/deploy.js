@@ -7,9 +7,9 @@ import run from './run';
 // GitHub Pages
 const remote = {
   name: 'github',
-  url: 'https://github.com/<user>/<repo>.git',
+  url: 'http://nethivikram.github.io/AssignmentCampk12.git',
   branch: 'gh-pages',
-  website: 'https://<user>.github.io/<repo>/',
+  website: 'https://github.com/nethivikram/AssignmentCampk12/',
   static: true,
 };
 
